@@ -33,8 +33,8 @@
 // ===========================
 // Enter your WiFi credentials
 // ===========================
-const char* ssid = "FRITZ!Box 7590 DJ";
-const char* password = "0075914042";
+const char* ssid = "Your Network ID";
+const char* password = "Your Password";
 
 void startCameraServer();
 void setupLedFlash(int pin);
